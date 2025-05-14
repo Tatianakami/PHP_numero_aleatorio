@@ -1,0 +1,9 @@
+*.log
+*.sql
+*.zip
+*.rar
+*.tar.gz
+*.bak
+*.DS_Store
+vendor/
+node_modules/
