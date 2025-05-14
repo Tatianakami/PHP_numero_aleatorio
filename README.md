@@ -48,7 +48,7 @@ Editar
 
 > 💡 O número aleatório será exibido automaticamente ao abrir a página. Clique em "Gerar Novamente" para obter um novo número.
 
-## ✨ Autor
+
 
 Desenvolvido com 💙 por **Tatiana Kami**
 
