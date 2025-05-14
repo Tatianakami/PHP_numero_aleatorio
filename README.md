@@ -54,3 +54,11 @@ Desenvolvido com 💙 por **Tatiana Kami**
 
 ---
 
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da **[MIT License](https://opensource.org/licenses/MIT)**.  
+Você pode usar, copiar, modificar e distribuir este software livremente, desde que mantenha os créditos ao autor.
+
+&copy; 2025 Tatiana Kami
+
+
